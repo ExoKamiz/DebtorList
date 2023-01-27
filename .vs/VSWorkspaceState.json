@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\public",
+    "\\client\\src",
+    "\\client\\src\\components",
+    "\\client\\src\\components\\Login",
+    "\\client\\src\\components\\Main",
+    "\\client\\src\\components\\Signup",
+    "\\server"
+  ],
+  "SelectedNode": "\\client\\src\\components\\Signup\\index.jsx",
+  "PreviewInSolutionExplorer": false
+}
